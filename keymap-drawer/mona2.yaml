@@ -11,82 +11,39 @@ layers:
   - I
   - O
   - P
-  - A
+  - {t: A, h: LEFT CONTROL}
   - S
   - D
   - F
   - G
-  - F13
+  - '['
   - H
   - J
   - K
   - L
-  - ;
+  - {t: '-', h: F10}
   - {t: Z, h: LEFT SHIFT}
   - X
   - C
   - V
   - B
-  - ENTER
-  - F15
+  - '&mkp MB1'
+  - ']'
   - N
   - M
   - ','
   - .
-  - /
-  - LCTRL
+  - {t: /, h: RIGHT SHIFT}
+  - LALT
   - LEFT WIN
-  - F16
-  - BACKSPACE
-  - {t: ENTER, h: '2'}
-  - {t: '&to_layer_0 LANG2', h: '3'}
-  - {t: '&to_layer_0 LANG1', h: '3'}
+  - {t: TAB, h: '5'}
+  - {t: LANGUAGE 2, h: '5'}
   - {t: SPACE, h: '1'}
-  - LEFT ALT
+  - {t: '&to_layer_0 LANGUAGE_1', h: 2number}
+  - BACKSPACE
+  - {t: ENTER, h: '3'}
+  - {t: CAPSLOCK, h: ESC}
   '1':
-  - '1'
-  - '2'
-  - '3'
-  - '4'
-  - '5'
-  - '6'
-  - '7'
-  - '8'
-  - '9'
-  - '0'
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - '['
-  - ']'
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - (
-  - )
-  - {t: ▽, type: trans}
-  - \
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - '|'
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {type: held}
-  - {t: ▽, type: trans}
-  '2':
   - '!'
   - '@'
   - '#'
@@ -129,6 +86,49 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  2number:
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '7'
+  - '8'
+  - '9'
+  - +
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '['
+  - ']'
+  - {t: ▽, type: trans}
+  - '['
+  - ']'
+  - '4'
+  - '5'
+  - '6'
+  - '-'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - (
+  - )
+  - '1'
+  - '2'
+  - '3'
+  - '='
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {type: held}
+  - {t: ▽, type: trans}
+  - '0'
+  - BACKSPACE
   '3':
   - {t: ▽, type: trans}
   - Ctl+Sft+TAB
@@ -168,9 +168,9 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   '4':
   - {t: ▽, type: trans}
@@ -211,8 +211,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
-  - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - BT CLR ALL
   '5':
@@ -251,7 +251,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -303,6 +303,6 @@ layers:
   - {t: ▽, type: trans}
 combos:
 - p: [39, 38]
-  k: {t: ESC, h: '4'}
+  k: {t: ESC, h: '5'}
 - p: [11, 12]
   k: TAB
