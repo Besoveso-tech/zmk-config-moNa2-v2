@@ -33,7 +33,7 @@ layers:
   - M
   - ','
   - .
-  - {t: /, h: Gui+RIGHT SHIFT}
+  - {t: /, h: toggle}
   - {t: LEFT SHIFT, h: LALT}
   - LEFT WIN
   - {t: TAB, h: '5'}
