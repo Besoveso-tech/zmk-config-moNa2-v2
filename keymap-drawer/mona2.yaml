@@ -1,7 +1,7 @@
 layout: {zmk_keyboard: mona2}
 layers:
   default:
-  - Q
+  - {t: Q, h: LEFT CONTROL}
   - W
   - E
   - R
@@ -11,7 +11,7 @@ layers:
   - I
   - O
   - P
-  - {t: A, h: LEFT CONTROL}
+  - A
   - S
   - D
   - F
@@ -37,7 +37,7 @@ layers:
   - LALT
   - LEFT WIN
   - {t: TAB, h: '5'}
-  - {t: LANGUAGE 2, h: '4'}
+  - {t: LANGUAGE 2, h: '5'}
   - {t: SPACE, h: '1'}
   - {t: '&to_layer_0 LANGUAGE_1', h: 2number}
   - BACKSPACE
@@ -172,7 +172,7 @@ layers:
   - {t: ▽, type: trans}
   - {type: held}
   - {t: ▽, type: trans}
-  '4':
+  '5':
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -208,56 +208,13 @@ layers:
   - BT CLR
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - BT CLR ALL
-  '5':
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - '&mkp MB3'
-  - '&mkp MB2'
-  - '&mkp MB1'
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - '&mkp MB1'
-  - '&mkp MB2'
-  - '&mkp MB3'
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {type: held}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   '6':
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
