@@ -22,7 +22,7 @@ layers:
   - K
   - L
   - {t: '-', h: F10}
-  - {t: Z, h: LEFT SHIFT}
+  - Z
   - X
   - C
   - V
@@ -33,8 +33,8 @@ layers:
   - M
   - ','
   - .
-  - {t: /, h: RIGHT SHIFT}
-  - LALT
+  - {t: /, h: Gui+RIGHT SHIFT}
+  - {t: LEFT SHIFT, h: LALT}
   - LEFT WIN
   - {t: TAB, h: '5'}
   - {t: LANGUAGE 2, h: '5'}
@@ -42,7 +42,7 @@ layers:
   - {t: '&to_layer_0 LANGUAGE_1', h: 2number}
   - BACKSPACE
   - {t: ENTER, h: '3'}
-  - {t: CAPSLOCK, h: ESC}
+  - Sft+RIGHT COMMAND
   '1':
   - ESCAPE
   - F1
