@@ -154,8 +154,8 @@ layers:
   - {t: ▽, type: trans}
   - LEFT SHIFT
   - {t: ▽, type: trans}
-  - Gui+LEFT
-  - Gui+RIGHT
+  - Alt+LEFT
+  - Alt+RIGHT
   - Sft+Gui+5
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
