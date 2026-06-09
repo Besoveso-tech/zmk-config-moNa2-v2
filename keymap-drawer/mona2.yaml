@@ -38,12 +38,12 @@ layers:
   - LEFT WIN
   - {t: TAB, h: '5'}
   - {t: LANGUAGE 2, h: '5'}
-  - {t: SPACE, h: '1'}
-  - {t: '&to_layer_0 LANGUAGE_1', h: 2number}
+  - {t: SPACE, h: symbol}
+  - {t: '&to_layer_0 LANGUAGE_1', h: number}
   - BACKSPACE
-  - {t: ENTER, h: '3'}
+  - {t: ENTER, h: shortacut}
   - Sft+RIGHT COMMAND
-  '1':
+  symbol:
   - ESCAPE
   - F1
   - F2
@@ -86,7 +86,7 @@ layers:
   - (
   - )
   - {t: ▽, type: trans}
-  2number:
+  number:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -129,7 +129,7 @@ layers:
   - {t: ▽, type: trans}
   - '0'
   - BACKSPACE
-  '3':
+  shortacut:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -260,6 +260,10 @@ layers:
   - {t: ▽, type: trans}
 combos:
 - p: [39, 38]
-  k: {t: ESC, h: '5'}
+  k: DEL
 - p: [11, 12]
   k: TAB
+- p: [19, 20]
+  k: BACKSPACE
+- p: [21, 22]
+  k: '&mkp RCLK'
