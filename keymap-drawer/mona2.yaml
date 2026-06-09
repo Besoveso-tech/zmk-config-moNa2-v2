@@ -34,7 +34,7 @@ layers:
   - ','
   - .
   - {t: /, h: toggle}
-  - {t: LEFT SHIFT, h: LALT}
+  - {t: ESCAPE, h: LEFT SHIFT}
   - LEFT WIN
   - {t: TAB, h: '5'}
   - {t: LANGUAGE 2, h: '5'}
@@ -146,7 +146,7 @@ layers:
   - Sft+Gui+LEFT ARROW
   - Sft+Gui+RIGHT ARROW
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Gui+R
   - LEFT ARROW
   - DOWN ARROW
   - RIGHT ARROW
