@@ -24,14 +24,24 @@
     combos {
         compatible = "zmk,combos";
 
-        layer4_ESC {
-            bindings = <&lt 4 ESC>;
+        ESC_combo {
+            bindings = <&kp DEL>;
             key-positions = <39 38>;
         };
 
         tab {
             bindings = <&kp TAB>;
             key-positions = <11 12>;
+        };
+
+        backspacecombo {
+            bindings = <&kp BACKSPACE>;
+            key-positions = <19 20>;
+        };
+
+        rightclk {
+            bindings = <&mkp RCLK>;
+            key-positions = <21 22>;
         };
     };
 
@@ -85,7 +95,7 @@
             sensor-bindings = <&scroll_up_down>;
         };
 
-        layer_1 {
+        symbol {
             bindings = <
 &kp ESCAPE  &kp F1   &kp F2   &kp F3   &kp F4                                    &kp CARET              &kp AT_SIGN      &kp LESS_THAN  &kp GREATER_THAN  &kp UNDERSCORE
 &trans      &kp F5   &kp F6   &kp F7   &trans              &kp F11               &kp SQT                &kp EXCLAMATION  &kp QUESTION   &kp TILDE         &kp COLON
@@ -96,7 +106,7 @@
             sensor-bindings = <&scroll_up_down>;
         };
 
-        layer_2number {
+        number {
             bindings = <
 &trans  &trans  &trans            &trans             &trans                                  &kp ASTRK              &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp PLUS
 &trans  &trans  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &trans            &trans                &kp SLASH              &kp NUMBER_4  &kp N5        &kp NUMBER_6  &kp MINUS
@@ -107,7 +117,7 @@
             sensor-bindings = <&scroll_right_left>;
         };
 
-        layer_3 {
+        shortacut {
             bindings = <
 &trans           &trans            &trans  &kp LC(LG(LEFT_ARROW))  &kp LC(LG(RIGHT_ARROW))                            &trans     &kp HOME        &kp UP_ARROW    &kp END          &trans
 &kp LC(LS(TAB))  &kp LC(TAB)       &trans  &kp LS(LG(LEFT_ARROW))  &kp LS(LG(RIGHT_ARROW))                    &trans  &kp LG(R)  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans
