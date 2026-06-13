@@ -139,10 +139,10 @@
 
         shortacut {
             bindings = <
-&kp LC(LEFT_ARROW)    &kp LC(RIGHT)          &trans            &kp LC(LG(LEFT_ARROW))  &kp LC(LG(RIGHT_ARROW))                       &trans          &kp HOME        &kp UP_ARROW    &kp END               &kp PG_UP
-&kp LC(LS(TAB))       &kp LC(TAB)            &trans            &kp LA(LEFT_ARROW)      &kp LA(RIGHT)                         &trans  &kp LS(LG(N5))  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW       &kp PAGE_DOWN
-&kp LG(LEFT_BRACKET)  &kp LG(RIGHT_BRACKET)  &kp LEFT_CONTROL  &kp LS(LG(LEFT))        &kp LS(LG(RIGHT))        &kp LG(R)    &trans  &kp LS(LG(T))   &kp LG(T)       &kp LG(W)       &kp LG(LEFT_BRACKET)  &kp LG(RIGHT_BRACKET)
-&kp LEFT_SHIFT        &kp LEFT_COMMAND       &kp LALT          &kp LG(C)               &kp LG(V)                &kp LG(Z)    &trans  &trans                                                                &trans
+&kp LC(LEFT_ARROW)  &kp LC(RIGHT)     &trans    &kp LC(LG(LEFT_ARROW))  &kp LC(LG(RIGHT_ARROW))                       &trans          &kp HOME        &kp UP_ARROW    &kp END               &kp PG_UP
+&kp LC(LS(TAB))     &kp LC(TAB)       &trans    &kp LA(LEFT_ARROW)      &kp LA(RIGHT)                         &trans  &kp LS(LG(N5))  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW       &kp PAGE_DOWN
+&kp LEFT_SHIFT      &kp LCTRL         &trans    &kp LS(LG(LEFT))        &kp LS(LG(RIGHT))        &kp LG(R)    &trans  &kp LS(LG(T))   &kp LG(T)       &kp LG(W)       &kp LG(LEFT_BRACKET)  &kp LG(RIGHT_BRACKET)
+&kp LEFT_SHIFT      &kp LEFT_COMMAND  &kp LALT  &kp LG(C)               &kp LG(V)                &kp LG(Z)    &trans  &trans                                                                &trans
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_DN C_VOL_UP>;
