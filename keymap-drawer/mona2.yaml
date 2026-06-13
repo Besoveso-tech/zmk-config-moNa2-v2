@@ -130,8 +130,8 @@ layers:
   - '0'
   - BACKSPACE
   shortacut:
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Ctl+LEFT ARROW
+  - Ctl+RIGHT
   - {t: ▽, type: trans}
   - Ctl+Gui+LEFT ARROW
   - Ctl+Gui+RIGHT ARROW
@@ -146,17 +146,17 @@ layers:
   - Sft+Gui+LEFT ARROW
   - Sft+Gui+RIGHT ARROW
   - {t: ▽, type: trans}
-  - Gui+R
+  - Sft+Gui+5
   - LEFT ARROW
   - DOWN ARROW
   - RIGHT ARROW
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - LEFT CONTROL
   - LEFT SHIFT
   - {t: ▽, type: trans}
   - Alt+LEFT
   - Alt+RIGHT
-  - Sft+Gui+5
+  - Gui+R
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - DELETE
@@ -267,3 +267,7 @@ combos:
   k: BACKSPACE
 - p: [21, 22]
   k: '&mkp RCLK'
+- p: [17, 18]
+  k: '&mkp MB1'
+- p: [18, 19]
+  k: '&mkp MB2'
