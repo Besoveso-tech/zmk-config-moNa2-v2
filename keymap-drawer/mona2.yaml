@@ -151,9 +151,9 @@ layers:
   - DOWN ARROW
   - RIGHT ARROW
   - PAGE DOWN
-  - Gui+[
-  - Gui+]
-  - LEFT CONTROL
+  - LEFT SHIFT
+  - LCTRL
+  - {t: ▽, type: trans}
   - Sft+Gui+LEFT
   - Sft+Gui+RIGHT
   - Gui+R
