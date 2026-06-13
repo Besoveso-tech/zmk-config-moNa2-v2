@@ -151,9 +151,9 @@ layers:
   - DOWN ARROW
   - RIGHT ARROW
   - PAGE DOWN
+  - Gui+[
+  - Gui+]
   - LEFT CONTROL
-  - LEFT SHIFT
-  - {t: ▽, type: trans}
   - Sft+Gui+LEFT
   - Sft+Gui+RIGHT
   - Gui+R
@@ -161,11 +161,11 @@ layers:
   - Sft+Gui+T
   - Gui+T
   - Gui+W
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - LALT
+  - Gui+[
+  - Gui+]
+  - LEFT SHIFT
   - LEFT COMMAND
-  - {t: ▽, type: trans}
+  - LALT
   - Gui+C
   - Gui+V
   - Gui+Z
