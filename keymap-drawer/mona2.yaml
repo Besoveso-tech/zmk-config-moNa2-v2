@@ -139,29 +139,29 @@ layers:
   - HOME
   - UP ARROW
   - END
-  - {t: ▽, type: trans}
+  - PG UP
   - Ctl+Sft+TAB
   - Ctl+TAB
   - {t: ▽, type: trans}
-  - Sft+Gui+LEFT ARROW
-  - Sft+Gui+RIGHT ARROW
+  - Alt+LEFT ARROW
+  - Alt+RIGHT
   - {t: ▽, type: trans}
   - Sft+Gui+5
   - LEFT ARROW
   - DOWN ARROW
   - RIGHT ARROW
-  - {t: ▽, type: trans}
+  - PAGE DOWN
   - LEFT CONTROL
   - LEFT SHIFT
   - {t: ▽, type: trans}
-  - Alt+LEFT
-  - Alt+RIGHT
+  - Sft+Gui+LEFT
+  - Sft+Gui+RIGHT
   - Gui+R
   - {t: ▽, type: trans}
+  - Sft+Gui+T
+  - Gui+T
+  - Gui+W
   - {t: ▽, type: trans}
-  - DELETE
-  - PAGE UP
-  - PAGE DOWN
   - {t: ▽, type: trans}
   - LALT
   - LEFT COMMAND
