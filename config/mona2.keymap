@@ -129,9 +129,9 @@
 
         shortacut {
             bindings = <
-&kp LC(LEFT_ARROW)  &kp LC(RIGHT)     &trans  &kp LC(LG(LEFT_ARROW))  &kp LC(LG(RIGHT_ARROW))                       &trans          &kp HOME        &kp UP_ARROW    &kp END          &trans
-&kp LC(LS(TAB))     &kp LC(TAB)       &trans  &kp LS(LG(LEFT_ARROW))  &kp LS(LG(RIGHT_ARROW))               &trans  &kp LS(LG(N5))  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans
-&kp LEFT_CONTROL    &kp LEFT_SHIFT    &trans  &kp LA(LEFT)            &kp LA(RIGHT)            &kp LG(R)    &trans  &trans          &kp DELETE      &kp PAGE_UP     &kp PAGE_DOWN    &trans
+&kp LC(LEFT_ARROW)  &kp LC(RIGHT)     &trans  &kp LC(LG(LEFT_ARROW))  &kp LC(LG(RIGHT_ARROW))                       &trans          &kp HOME        &kp UP_ARROW    &kp END          &kp PG_UP
+&kp LC(LS(TAB))     &kp LC(TAB)       &trans  &kp LA(LEFT_ARROW)      &kp LA(RIGHT)                         &trans  &kp LS(LG(N5))  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp PAGE_DOWN
+&kp LEFT_CONTROL    &kp LEFT_SHIFT    &trans  &kp LS(LG(LEFT))        &kp LS(LG(RIGHT))        &kp LG(R)    &trans  &kp LS(LG(T))   &kp LG(T)       &kp LG(W)       &trans           &trans
 &kp LALT            &kp LEFT_COMMAND  &trans  &kp LG(C)               &kp LG(V)                &kp LG(Z)    &trans  &trans                                                           &trans
             >;
 
