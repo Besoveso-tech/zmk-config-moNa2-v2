@@ -53,16 +53,6 @@
             bindings = <&mkp MB2>;
             key-positions = <18 19>;
         };
-
-        websiteback {
-            bindings = <&kp LG(LEFT_BRACKET)>;
-            key-positions = <29 30>;
-        };
-
-        websitego {
-            bindings = <&kp LG(RIGHT_BRACKET)>;
-            key-positions = <30 31>;
-        };
     };
 
     macros {
