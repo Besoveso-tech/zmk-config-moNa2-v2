@@ -53,6 +53,11 @@
             bindings = <&mkp MB2>;
             key-positions = <18 19>;
         };
+
+        alt {
+            bindings = <&kp LEFT_ALT>;
+            key-positions = <33 34>;
+        };
     };
 
     macros {
