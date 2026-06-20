@@ -271,3 +271,5 @@ combos:
   k: '&mkp MB1'
 - p: [18, 19]
   k: '&mkp MB2'
+- p: [33, 34]
+  k: LEFT ALT
