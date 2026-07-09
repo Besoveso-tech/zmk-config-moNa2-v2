@@ -16,24 +16,24 @@ layers:
   - D
   - F
   - G
-  - (
+  - Gui+R
   - H
   - J
   - K
   - L
-  - {t: '-', h: F10}
+  - '-'
   - Z
   - X
   - C
   - V
   - B
   - '&mkp MB1'
-  - )
+  - Gui+[
   - N
   - M
   - ','
   - .
-  - /
+  - F10
   - {t: ESCAPE, h: LEFT SHIFT}
   - LEFT WIN
   - {t: TAB, h: '5'}
@@ -59,7 +59,7 @@ layers:
   - F6
   - F7
   - {t: ▽, type: trans}
-  - F11
+  - /
   - ''''
   - '!'
   - '?'
@@ -71,7 +71,7 @@ layers:
   - F10
   - CAPS
   - {t: ▽, type: trans}
-  - F12
+  - _
   - '"'
   - '#'
   - '%'
