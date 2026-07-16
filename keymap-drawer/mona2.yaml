@@ -33,10 +33,10 @@ layers:
   - M
   - ','
   - .
-  - F10
+  - {t: LALT, h: F10}
   - {t: ESCAPE, h: LEFT SHIFT}
   - LEFT WIN
-  - {t: TAB, h: '5'}
+  - {t: LALT, h: '5'}
   - {t: LANGUAGE 2, h: '5'}
   - {t: SPACE, h: symbol}
   - {t: '&to_layer_0 LANGUAGE_1', h: number}
@@ -113,7 +113,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Alt+ENTER
   - (
   - )
   - '1'
