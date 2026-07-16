@@ -111,8 +111,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Gui+-
+  - Gui++
   - Alt+ENTER
   - (
   - )
@@ -139,7 +139,7 @@ layers:
   - HOME
   - UP ARROW
   - END
-  - PG UP
+  - Gui++
   - Ctl+Sft+TAB
   - Ctl+TAB
   - {t: ▽, type: trans}
@@ -150,7 +150,7 @@ layers:
   - LEFT ARROW
   - DOWN ARROW
   - RIGHT ARROW
-  - PAGE DOWN
+  - Gui+-
   - LEFT SHIFT
   - LCTRL
   - {t: ▽, type: trans}
