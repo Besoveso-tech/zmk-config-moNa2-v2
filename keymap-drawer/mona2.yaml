@@ -33,7 +33,7 @@ layers:
   - M
   - ','
   - .
-  - {t: LALT, h: F10}
+  - {t: F10, h: LALT}
   - {t: ESCAPE, h: LEFT SHIFT}
   - LEFT WIN
   - {t: LALT, h: '5'}
