@@ -28,12 +28,12 @@ layers:
   - V
   - B
   - '&mkp MB1'
-  - Gui+[
+  - LALT
   - N
   - M
   - ','
   - .
-  - {t: F10, h: LALT}
+  - {t: F10, h: F7}
   - {t: ESCAPE, h: LEFT SHIFT}
   - LEFT WIN
   - {t: LALT, h: '5'}
