@@ -265,8 +265,6 @@ combos:
   k: TAB
 - p: [19, 20]
   k: BACKSPACE
-- p: [21, 22]
-  k: '&mkp RCLK'
 - p: [17, 18]
   k: '&mkp MB1'
 - p: [18, 19]
