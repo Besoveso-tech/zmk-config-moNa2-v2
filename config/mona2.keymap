@@ -39,11 +39,6 @@
             key-positions = <19 20>;
         };
 
-        rightclk {
-            bindings = <&mkp RCLK>;
-            key-positions = <21 22>;
-        };
-
         click-right {
             bindings = <&mkp MB1>;
             key-positions = <17 18>;
