@@ -34,7 +34,7 @@ layers:
   - ','
   - .
   - {t: F10, h: F7}
-  - {t: ESCAPE, h: LEFT SHIFT}
+  - LEFT SHIFT
   - LEFT WIN
   - {t: LALT, h: '5'}
   - {t: LANGUAGE 2, h: '5'}
@@ -273,3 +273,5 @@ combos:
   k: '&mkp MB2'
 - p: [33, 34]
   k: LEFT ALT
+- p: [0, 1]
+  k: ESCAPE
