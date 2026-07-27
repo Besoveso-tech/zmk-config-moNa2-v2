@@ -271,5 +271,5 @@ combos:
   k: '&mkp MB2'
 - p: [33, 34]
   k: LEFT ALT
-- p: [0, 1]
+- p: [0, 1, 2]
   k: ESCAPE
