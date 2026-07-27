@@ -153,19 +153,19 @@ layers:
   - Gui+-
   - LEFT SHIFT
   - LCTRL
-  - {t: ▽, type: trans}
+  - Gui+H
   - Sft+Gui+LEFT
   - Sft+Gui+RIGHT
-  - Gui+R
+  - '&mkp MB1'
   - {t: ▽, type: trans}
   - Sft+Gui+T
   - Gui+T
   - Gui+W
   - Gui+[
   - Gui+]
-  - LEFT SHIFT
+  - Gui+R
   - LEFT COMMAND
-  - LALT
+  - Gui+A
   - Gui+C
   - Gui+V
   - Gui+Z
