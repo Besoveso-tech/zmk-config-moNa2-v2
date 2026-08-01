@@ -58,6 +58,11 @@
             bindings = <&kp ESCAPE>;
             key-positions = <0 1 2>;
         };
+
+        scroll {
+            bindings = <&lt 3 LEFT_ALT>;
+            key-positions = <18 19 20>;
+        };
     };
 
     macros {
