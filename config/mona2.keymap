@@ -60,7 +60,7 @@
         };
 
         scroll {
-            bindings = <&lt 3 LEFT_ALT>;
+            bindings = <&lt 3 LEFT_COMMAND>;
             key-positions = <18 19 20>;
         };
     };
