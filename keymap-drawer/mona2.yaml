@@ -273,3 +273,5 @@ combos:
   k: LEFT ALT
 - p: [0, 1, 2]
   k: ESCAPE
+- p: [18, 19, 20]
+  k: {t: LEFT ALT, h: shortacut}
