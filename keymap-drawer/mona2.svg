@@ -365,7 +365,7 @@ path.combo {
 <path d="M644,84 l37,0" class="combo"/>
 <rect rx="6" ry="6" x="630" y="71" width="28" height="26" class="combo"/>
 <text x="644" y="84" class="combo tap">
-<tspan x="644" dy="-0.6em">LEFT</tspan><tspan x="644" dy="1.2em">ALT</tspan>
+<tspan x="644" dy="-0.6em">LEFT</tspan><tspan x="644" dy="1.2em">COMMAND</tspan>
 </text>
 <a href="#shortacut">
 <text x="644" y="95" class="combo hold layer-activator"><tspan style="font-size: 78%">shortacut</tspan></text>
@@ -585,7 +585,7 @@ path.combo {
 <path d="M644,84 l37,0" class="combo"/>
 <rect rx="6" ry="6" x="630" y="71" width="28" height="26" class="combo"/>
 <text x="644" y="84" class="combo tap">
-<tspan x="644" dy="-0.6em">LEFT</tspan><tspan x="644" dy="1.2em">ALT</tspan>
+<tspan x="644" dy="-0.6em">LEFT</tspan><tspan x="644" dy="1.2em">COMMAND</tspan>
 </text>
 <a href="#shortacut">
 <text x="644" y="95" class="combo hold layer-activator"><tspan style="font-size: 78%">shortacut</tspan></text>
@@ -809,7 +809,7 @@ path.combo {
 <path d="M644,84 l37,0" class="combo"/>
 <rect rx="6" ry="6" x="630" y="71" width="28" height="26" class="combo"/>
 <text x="644" y="84" class="combo tap">
-<tspan x="644" dy="-0.6em">LEFT</tspan><tspan x="644" dy="1.2em">ALT</tspan>
+<tspan x="644" dy="-0.6em">LEFT</tspan><tspan x="644" dy="1.2em">COMMAND</tspan>
 </text>
 <a href="#shortacut">
 <text x="644" y="95" class="combo hold layer-activator"><tspan style="font-size: 78%">shortacut</tspan></text>
@@ -1065,7 +1065,7 @@ path.combo {
 <path d="M644,84 l37,0" class="combo"/>
 <rect rx="6" ry="6" x="630" y="71" width="28" height="26" class="combo"/>
 <text x="644" y="84" class="combo tap">
-<tspan x="644" dy="-0.6em">LEFT</tspan><tspan x="644" dy="1.2em">ALT</tspan>
+<tspan x="644" dy="-0.6em">LEFT</tspan><tspan x="644" dy="1.2em">COMMAND</tspan>
 </text>
 <a href="#shortacut">
 <text x="644" y="95" class="combo hold layer-activator"><tspan style="font-size: 78%">shortacut</tspan></text>
@@ -1293,7 +1293,7 @@ path.combo {
 <path d="M644,84 l37,0" class="combo"/>
 <rect rx="6" ry="6" x="630" y="71" width="28" height="26" class="combo"/>
 <text x="644" y="84" class="combo tap">
-<tspan x="644" dy="-0.6em">LEFT</tspan><tspan x="644" dy="1.2em">ALT</tspan>
+<tspan x="644" dy="-0.6em">LEFT</tspan><tspan x="644" dy="1.2em">COMMAND</tspan>
 </text>
 <a href="#shortacut">
 <text x="644" y="95" class="combo hold layer-activator"><tspan style="font-size: 78%">shortacut</tspan></text>
@@ -1513,7 +1513,7 @@ path.combo {
 <path d="M644,84 l37,0" class="combo"/>
 <rect rx="6" ry="6" x="630" y="71" width="28" height="26" class="combo"/>
 <text x="644" y="84" class="combo tap">
-<tspan x="644" dy="-0.6em">LEFT</tspan><tspan x="644" dy="1.2em">ALT</tspan>
+<tspan x="644" dy="-0.6em">LEFT</tspan><tspan x="644" dy="1.2em">COMMAND</tspan>
 </text>
 <a href="#shortacut">
 <text x="644" y="95" class="combo hold layer-activator"><tspan style="font-size: 78%">shortacut</tspan></text>

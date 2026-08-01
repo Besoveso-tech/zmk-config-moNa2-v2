@@ -274,4 +274,4 @@ combos:
 - p: [0, 1, 2]
   k: ESCAPE
 - p: [18, 19, 20]
-  k: {t: LEFT ALT, h: shortacut}
+  k: {t: LEFT COMMAND, h: shortacut}
