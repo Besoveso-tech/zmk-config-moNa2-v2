@@ -102,7 +102,7 @@ layers:
   - '['
   - ']'
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - (
   - /
   - '4'
   - '5'
@@ -114,8 +114,8 @@ layers:
   - Gui+-
   - Gui++
   - Alt+ENTER
-  - (
   - )
+  - .
   - '1'
   - '2'
   - '3'
