@@ -63,6 +63,11 @@
             bindings = <&lt 3 LEFT_COMMAND>;
             key-positions = <18 19 17>;
         };
+
+        scroll2 {
+            bindings = <&lt 3 LEFT_COMMAND>;
+            key-positions = <18 19 20>;
+        };
     };
 
     macros {
