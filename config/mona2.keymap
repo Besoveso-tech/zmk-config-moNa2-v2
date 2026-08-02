@@ -68,6 +68,11 @@
             bindings = <&lt 3 LEFT_COMMAND>;
             key-positions = <18 19 20>;
         };
+
+        mb3 {
+            bindings = <&mkp MB3>;
+            key-positions = <26 40>;
+        };
     };
 
     macros {
