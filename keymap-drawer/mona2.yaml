@@ -275,3 +275,5 @@ combos:
   k: ESCAPE
 - p: [18, 19, 17]
   k: {t: LEFT COMMAND, h: shortacut}
+- p: [18, 19, 20]
+  k: {t: LEFT COMMAND, h: shortacut}
