@@ -277,3 +277,5 @@ combos:
   k: {t: LEFT COMMAND, h: shortacut}
 - p: [18, 19, 20]
   k: {t: LEFT COMMAND, h: shortacut}
+- p: [26, 40]
+  k: '&mkp MB3'

@@ -380,6 +380,14 @@ path.combo {
 <a href="#shortacut">
 <text x="644" y="95" class="combo hold layer-activator"><tspan style="font-size: 78%">shortacut</tspan></text>
 </a></g>
+<g class="combo combopos-9">
+<path d="M392,168 l-66,-22" class="combo"/>
+<path d="M392,168 l66,22" class="combo"/>
+<rect rx="6" ry="6" x="378" y="155" width="28" height="26" class="combo"/>
+<text x="392" y="168" class="combo tap">
+<tspan x="392" dy="-0.6em">&amp;mkp</tspan><tspan x="392" dy="1.2em">MB3</tspan>
+</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 280)" class="layer-symbol">
@@ -610,6 +618,14 @@ path.combo {
 <a href="#shortacut">
 <text x="644" y="95" class="combo hold layer-activator"><tspan style="font-size: 78%">shortacut</tspan></text>
 </a></g>
+<g class="combo combopos-9">
+<path d="M392,168 l-66,-22" class="combo"/>
+<path d="M392,168 l66,22" class="combo"/>
+<rect rx="6" ry="6" x="378" y="155" width="28" height="26" class="combo"/>
+<text x="392" y="168" class="combo tap">
+<tspan x="392" dy="-0.6em">&amp;mkp</tspan><tspan x="392" dy="1.2em">MB3</tspan>
+</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 560)" class="layer-number">
@@ -844,6 +860,14 @@ path.combo {
 <a href="#shortacut">
 <text x="644" y="95" class="combo hold layer-activator"><tspan style="font-size: 78%">shortacut</tspan></text>
 </a></g>
+<g class="combo combopos-9">
+<path d="M392,168 l-66,-22" class="combo"/>
+<path d="M392,168 l66,22" class="combo"/>
+<rect rx="6" ry="6" x="378" y="155" width="28" height="26" class="combo"/>
+<text x="392" y="168" class="combo tap">
+<tspan x="392" dy="-0.6em">&amp;mkp</tspan><tspan x="392" dy="1.2em">MB3</tspan>
+</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 840)" class="layer-shortacut">
@@ -1110,6 +1134,14 @@ path.combo {
 <a href="#shortacut">
 <text x="644" y="95" class="combo hold layer-activator"><tspan style="font-size: 78%">shortacut</tspan></text>
 </a></g>
+<g class="combo combopos-9">
+<path d="M392,168 l-66,-22" class="combo"/>
+<path d="M392,168 l66,22" class="combo"/>
+<rect rx="6" ry="6" x="378" y="155" width="28" height="26" class="combo"/>
+<text x="392" y="168" class="combo tap">
+<tspan x="392" dy="-0.6em">&amp;mkp</tspan><tspan x="392" dy="1.2em">MB3</tspan>
+</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 1120)" class="layer-5">
@@ -1348,6 +1380,14 @@ path.combo {
 <a href="#shortacut">
 <text x="644" y="95" class="combo hold layer-activator"><tspan style="font-size: 78%">shortacut</tspan></text>
 </a></g>
+<g class="combo combopos-9">
+<path d="M392,168 l-66,-22" class="combo"/>
+<path d="M392,168 l66,22" class="combo"/>
+<rect rx="6" ry="6" x="378" y="155" width="28" height="26" class="combo"/>
+<text x="392" y="168" class="combo tap">
+<tspan x="392" dy="-0.6em">&amp;mkp</tspan><tspan x="392" dy="1.2em">MB3</tspan>
+</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 1400)" class="layer-6">
@@ -1578,6 +1618,14 @@ path.combo {
 <a href="#shortacut">
 <text x="644" y="95" class="combo hold layer-activator"><tspan style="font-size: 78%">shortacut</tspan></text>
 </a></g>
+<g class="combo combopos-9">
+<path d="M392,168 l-66,-22" class="combo"/>
+<path d="M392,168 l66,22" class="combo"/>
+<rect rx="6" ry="6" x="378" y="155" width="28" height="26" class="combo"/>
+<text x="392" y="168" class="combo tap">
+<tspan x="392" dy="-0.6em">&amp;mkp</tspan><tspan x="392" dy="1.2em">MB3</tspan>
+</text>
+</g>
 </g>
 </g>
 </svg>
