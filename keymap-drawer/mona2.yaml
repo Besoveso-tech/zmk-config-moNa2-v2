@@ -16,7 +16,7 @@ layers:
   - D
   - F
   - G
-  - /
+  - Gui+R
   - H
   - J
   - K
@@ -28,7 +28,7 @@ layers:
   - V
   - B
   - '&mkp MB1'
-  - LALT
+  - {t: /, h: LALT}
   - N
   - M
   - ','
